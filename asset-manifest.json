@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.16e93f99.chunk.css",
-    "main.js": "./static/js/main.d27725f1.chunk.js",
-    "main.js.map": "./static/js/main.d27725f1.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.9d1acb6b.js",
-    "runtime-main.js.map": "./static/js/runtime-main.9d1acb6b.js.map",
-    "static/js/2.f7174a27.chunk.js": "./static/js/2.f7174a27.chunk.js",
-    "static/js/2.f7174a27.chunk.js.map": "./static/js/2.f7174a27.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.09f2143a24dcc59d51bdbb19a20e1c1d.js": "./precache-manifest.09f2143a24dcc59d51bdbb19a20e1c1d.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.16e93f99.chunk.css.map": "./static/css/main.16e93f99.chunk.css.map",
-    "static/js/2.f7174a27.chunk.js.LICENSE.txt": "./static/js/2.f7174a27.chunk.js.LICENSE.txt",
-    "static/media/myphoto.jpg": "./static/media/myphoto.69410ce1.jpg",
-    "static/media/about1.css": "./static/media/orange.de55c4eb.jpg"
+    "main.css": "/GaneshMandapati/ReactPortfolio/static/css/main.779bcf33.chunk.css",
+    "main.js": "/GaneshMandapati/ReactPortfolio/static/js/main.504d70e2.chunk.js",
+    "main.js.map": "/GaneshMandapati/ReactPortfolio/static/js/main.504d70e2.chunk.js.map",
+    "runtime-main.js": "/GaneshMandapati/ReactPortfolio/static/js/runtime-main.cc923d1c.js",
+    "runtime-main.js.map": "/GaneshMandapati/ReactPortfolio/static/js/runtime-main.cc923d1c.js.map",
+    "static/js/2.db1975df.chunk.js": "/GaneshMandapati/ReactPortfolio/static/js/2.db1975df.chunk.js",
+    "static/js/2.db1975df.chunk.js.map": "/GaneshMandapati/ReactPortfolio/static/js/2.db1975df.chunk.js.map",
+    "index.html": "/GaneshMandapati/ReactPortfolio/index.html",
+    "precache-manifest.a17936ee8515de112d982da15913bb99.js": "/GaneshMandapati/ReactPortfolio/precache-manifest.a17936ee8515de112d982da15913bb99.js",
+    "service-worker.js": "/GaneshMandapati/ReactPortfolio/service-worker.js",
+    "static/css/main.779bcf33.chunk.css.map": "/GaneshMandapati/ReactPortfolio/static/css/main.779bcf33.chunk.css.map",
+    "static/js/2.db1975df.chunk.js.LICENSE.txt": "/GaneshMandapati/ReactPortfolio/static/js/2.db1975df.chunk.js.LICENSE.txt",
+    "static/media/myphoto.jpg": "/GaneshMandapati/ReactPortfolio/static/media/myphoto.69410ce1.jpg",
+    "static/media/about1.css": "/GaneshMandapati/ReactPortfolio/static/media/orange.de55c4eb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d1acb6b.js",
-    "static/js/2.f7174a27.chunk.js",
-    "static/css/main.16e93f99.chunk.css",
-    "static/js/main.d27725f1.chunk.js"
+    "static/js/runtime-main.cc923d1c.js",
+    "static/js/2.db1975df.chunk.js",
+    "static/css/main.779bcf33.chunk.css",
+    "static/js/main.504d70e2.chunk.js"
   ]
 }
