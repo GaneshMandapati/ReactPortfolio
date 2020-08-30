@@ -1,0 +1,59 @@
+h2
+{
+  margin-top: 80px;
+  text-align:center;
+  font-weight:bold;
+  color:blue;
+}
+
+ 
+
+.line-break
+{
+  width:200px;
+  margin: 10px auto;
+  border-top: 1px solid white;
+  
+}
+
+.progress {
+  
+height: 35px;
+margin-top:140 px;
+
+
+}
+
+.progress .skill {
+ 
+   font: normal 12px "Open Sans Web";
+  
+   line-height: 35px;
+  
+   padding: 0;
+  
+   margin: 0 0 0 20px;
+   font: 10px;
+   color:black;
+ text-transform: uppercase;
+              
+}
+
+.progress .skill .val {
+ 
+ float: right;
+ 
+ font-style: normal;
+
+  
+margin: 0 20px 0 0;
+
+}
+
+
+.progress-bar {
+  
+  text-align: left;
+ 
+ transition-duration: 3s;
+}

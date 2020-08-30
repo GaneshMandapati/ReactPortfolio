@@ -1,0 +1,54 @@
+body{ 
+    background: url(./orange.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family:'Helvetica Neue', sans-serif;
+     }
+*
+.prof-box
+{
+    height:450px;
+    width:400px;
+    background:rgba(0,0,0,0.4);
+    padding:40px;
+    color:white;
+    margin: 0 auto;
+    margin-top:120px;
+    text-align: center;
+    
+
+}
+.prof-pic
+{
+      border-radius:50%;
+      height:200px;
+      font:200px;
+}
+
+h1
+{
+   font-weight:100;
+   letter-spacing:6;
+   font-size:40px;
+}
+.social-icon
+{
+     font-size:40px;
+     margin-top: 10px;
+
+}
+.social-icon a
+{
+  color:white;
+}
+
+.line-break
+{
+  width:325px;
+  margin: 0 auto;
+  border-top: 1px solid white;
+  
+}
+
